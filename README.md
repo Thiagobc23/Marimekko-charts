@@ -11,4 +11,4 @@ How to draw Marimekko charts with Matplotlib and add interactivity with Streamli
   
 ## Examples
 ![](imgs/chart.png)
-![](imgs/streamlit.png)
+![](imgs/streamlit.PNG)
