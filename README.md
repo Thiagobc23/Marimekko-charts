@@ -6,6 +6,9 @@ How to draw Marimekko charts with Matplotlib and add interactivity with Streamli
 `pip install pandas`  
 `pip install streamlit`  
 
+## Streamlit
+`streamlit run marimekko.py`
+
 ## Article
 [Marimekko Charts with Python’s Matplotlib](https://thiago-bernardes-carvalho.medium.com/marimekko-charts-with-pythons-matplotlib-6b9784ae73a1)
 
